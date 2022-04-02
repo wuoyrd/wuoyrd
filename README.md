@@ -5,7 +5,7 @@
 
 ## 💻 Languages & Technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuoyrd&layout=compact&theme=github_dark&hide_border=true&bg_color=22272e&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuoyrd&layout=compact&theme=github_dark&hide_border=true&bg_color=2d333b&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Quick Stats
 
@@ -19,7 +19,7 @@
 <details><summary>💥 Working on</summary><br>
 <blockquote>
 <p align="center">
-<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&theme=ayu-mirage&show_owner=true" /></a>&ensp;</a>
+<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github-dark-blue&hide_border=true&background=2d333b" /></a>&ensp;</a>
 </p>
 </blockquote>
 </details>
