@@ -13,7 +13,6 @@
 </blockquote></details>
 
 <br/>
-<hr/>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=wuoyrd&color=1A94E6&label=Views">&ensp;<img src="https://badges.pufler.dev/visits/wuoyrd/wuoyrd?color=20c5a4&logo=github"/></p>
 
