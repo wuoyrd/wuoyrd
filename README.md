@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub Profile ✨ <img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/>
+# Hello! Welcome to my GitHub Profile ✨ <img align="right" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/>
 
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
 
