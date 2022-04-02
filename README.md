@@ -2,6 +2,8 @@
 
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
 
+<br/>
+
 ## 💻 Languages & Technologies
 
 ==TODO==
