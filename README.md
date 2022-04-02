@@ -19,7 +19,7 @@
 <details><summary>💥 Working on</summary><br>
 <blockquote>
 <p align="center">
-<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github-dark-blue&hide_border=true&bg_color=2d333b&text_color=fdfdfd" /></a>&ensp;</a>
+<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b" /></a>&ensp;</a>
 </p>
 </blockquote>
 </details>
