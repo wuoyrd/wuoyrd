@@ -1,8 +1,6 @@
 # Hello! Welcome to my GitHub Profile ✨
 
-<p align="left">
-	<img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/>
-</p>
+<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
 
 ## 💻 Languages & Technologies
 
