@@ -9,10 +9,10 @@
 
 ## 🚀 Quick Stats
 
-<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4"/>&ensp;<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=67a6e6"/>&ensp;<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b"/></p>
 
 <details><summary>💥 Working on</summary><blockquote><br/>
-<p align="center"><a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4"/></a></p>
+<p align="center"><a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=67a6e6"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=67a6e6"/></a></p>
 </blockquote></details>
 
 <p width="100%" align="right"><a href="#">🡱 top</a></p>
