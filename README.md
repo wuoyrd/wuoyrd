@@ -1,13 +1,13 @@
 # Hello! Welcome to my GitHub Profile ✨
 
+<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
+<br/>
+
 ## 💻 Languages & Technologies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuoyrd&layout=compact&theme=github_dark&hide_border=true&bg_color=22272e&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Quick Stats
-
-<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
-<br/>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=22272e" />
