@@ -6,7 +6,7 @@
 
 ## 💻 Languages & Technologies
 
-==TODO==
+<p width="100%" align="right"><a href="#">🡱 top</a></p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&show_icons=true&theme=blueberry" />
