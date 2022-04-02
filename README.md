@@ -1,6 +1,6 @@
 # Hello! Welcome to my GitHub Profile ✨
 
-
+<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
 
 <br/>
 
@@ -15,9 +15,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=22272e" />
 </p>
 
-
-
----
 <p width="100%" align="right"><a href="#">🡱 top</a></p>
-<br/>
-<p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
+
