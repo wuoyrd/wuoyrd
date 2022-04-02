@@ -1,4 +1,6 @@
-### Hello! Welcome to my GitHub Profile ✨
+## Hello! Welcome to my GitHub Profile ✨
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
 
 <br/>
 
