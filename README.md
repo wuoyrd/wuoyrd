@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub Profile ✨
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! Welcome to my GitHub Profile ✨</h1>
 
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=wuoyrd" alt="wuoyrd"/></p>
 <br/>
