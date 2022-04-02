@@ -12,8 +12,6 @@
 <p align="center"><a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6"/></a></p>
 </blockquote></details>
 
-<br/>
-
 <p align="right"><img src="https://komarev.com/ghpvc/?username=wuoyrd&color=1A94E6&label=Views">&ensp;<img src="https://badges.pufler.dev/visits/wuoyrd/wuoyrd?color=20c5a4&logo=github"/></p>
 
 
