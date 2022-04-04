@@ -1,13 +1,13 @@
-name: Waka README
-
+name: Latest worked metrics workflow
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
+  
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-readme-with-worked metrics:
+    name: Update this repo's README with latest worked metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
