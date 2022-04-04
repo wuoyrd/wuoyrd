@@ -1,8 +1,8 @@
 name: Latest worked metrics workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every ten minutes
+    - cron: '*/10 * * * *'
   workflow_dispatch:
   
 jobs:
@@ -10,9 +10,19 @@ jobs:
     name: Update this repo's README with latest worked metrics
     runs-on: ubuntu-latest
     steps:
+    
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "False
+          
+      - uses: actions/checkout@master
+      
+      - name: Update activity from AniList
+        uses: RangerDigital/neko-box@v1.0.1
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          ANILIST_USERNAME: ${{ secrets.ANILIST_USERNAME }}
