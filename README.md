@@ -16,6 +16,7 @@
   	&ensp;
   	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&currStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
   </p>
+
 ## 🗂️ Personal Projects
 
 <p align="center">
