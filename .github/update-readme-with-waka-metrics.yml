@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@master
       
       - name: Update activity from AniList
-        uses: RangerDigital/neko-box@v1.0.1
+        uses: RangerDigital/neko-box@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
