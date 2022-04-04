@@ -18,30 +18,34 @@
   	&ensp;
   	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&currStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
   </p>
+
 ## 🗂️ Personal Projects
 
 <p align="center">
 	<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>
 </p>
+
 ---
 
-<details><summary>👨‍💻 <b>Coding</b></summary><p align="left">
-<img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
-<img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
-<img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
-<img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6"/>
-<img src="https://img.shields.io/badge/XML-informational?style=flat&logo=xaml&color=eb525f"/>
-<img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&color=eb525f"/>
-<img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
-<img src="https://img.shields.io/badge/SVG-informational?style=flat&logo=svg&color=eb525f"/>
-</p></details>
+<details>
+	<summary>👨‍💻 <b>Coding</b></summary>
+	<p align="left">
+    <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6"/>
+    <img src="https://img.shields.io/badge/XML-informational?style=flat&logo=xaml&color=eb525f"/>
+    <img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&color=eb525f"/>
+    <img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
+	</p>
+</details>
 <details><summary>🛠️ <b>Tooling</b></summary><p align="left">
 <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
