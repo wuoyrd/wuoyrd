@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100px" src="https://i.imgur.com/Ax6izaP.png" align="center" alt="The Moon"/>
-	<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! Welcome to my GitHub profile ✨</h2>
+	<h2 align="center">📌 Hello! Welcome to my GitHub profile ✨</h2>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
@@ -8,10 +8,11 @@
   <img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=follow&color=52cca3&style=flat"/>
   <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
 </p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&count_private=true"/>
@@ -25,10 +26,10 @@
 	<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>
 </p>
 
----
+## 🛠️ Knowledge & Proficiencies
 
 <details>
-	<summary>👨‍💻 <b>Coding</b></summary>
+	<summary>🔥 <b>Coding</b></summary>
 	<p align="left">
     <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
     <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
@@ -46,7 +47,7 @@
     <img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
 	</p>
 </details>
-<details><summary>🛠️ <b>Tooling</b></summary><p align="left">
+<details><summary>👨‍💻 <b>Tooling</b></summary><p align="left">
 <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
@@ -63,14 +64,17 @@
 <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
 <img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
 </p></details>
-<details><summary><b>Building</b></summary><p align="left">
-<img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882"/>
-<img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
-<img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
-</p></details>
+<details>
+	<summary>📦 <b>Building</b></summary>
+	<p align="left">
+    <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
+    <img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
+    <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd"/>
+    <img src="https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd"/>
+    <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd"/>
+    <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882"/>
+    <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
+    <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
+	</p>
+</details>
