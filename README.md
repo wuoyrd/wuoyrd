@@ -38,21 +38,21 @@
 <img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6"/>
 </p></details>
 <details><summary><b>Tools</b></summary><p align="left">
-<img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/RavenDB-informational?style=flat&logo=json&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=52cca3"/>
-<img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=52cca3"/>
+<img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/RavenDB-informational?style=flat&logo=json&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
 </p></details>
 <details><summary><b>Build</b></summary><p align="left">
 <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
