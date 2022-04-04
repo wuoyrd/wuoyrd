@@ -25,47 +25,5 @@
 
 ## 🛠️ Knowledge & Proficiencies
 
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&color=57a6e6)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=Csharp&color=57a6e6)
-![](https://img.shields.io/badge/Code-F%23-informational?style=flat&logo=Csharp&color=57a6e6)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6)
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-RavenDB-informational?style=flat&logo=json&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=52cca3)
-![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=52cca3)
-
-![](https://img.shields.io/badge/Build-AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd)
-![](https://img.shields.io/badge/Build-Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd)
-![](https://img.shields.io/badge/Build-GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd)
-![](https://img.shields.io/badge/Build-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd)
-![](https://img.shields.io/badge/Build-Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd)
-![](https://img.shields.io/badge/Build-AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd)
-
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882)
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882)
-![](https://img.shields.io/badge/Shell-WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882)
-
-![](https://img.shields.io/badge/Data-XML-informational?style=flat&logo=xaml&color=eb525f)
-![](https://img.shields.io/badge/Data-JSON-informational?style=flat&logo=json&color=eb525f)
-![](https://img.shields.io/badge/Data-YAML-informational?style=flat&logo=json&color=eb525f)
-![](https://img.shields.io/badge/Data-SVG-informational?style=flat&logo=svg&color=eb525f)
 
