@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=52cca3"/>
 <img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=52cca3"/>
 <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=52cca3"/>
-<img src=""https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=52cca3"/>
+<img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=52cca3"/>
 </p></details>
 <details><summary><b>Build</b></summary><p align="left">
 <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
