@@ -21,6 +21,7 @@
 <p align="center">
 	<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>
 </p>
+
 ## 🛠️ Knowledge & Proficiencies
 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&color=57a6e6)
@@ -34,8 +35,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6)
-
----
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=52cca3)
 ![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=52cca3)
@@ -53,8 +52,6 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=52cca3)
 ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=52cca3)
 
----
-
 ![](https://img.shields.io/badge/Build-AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd)
 ![](https://img.shields.io/badge/Build-Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd)
 ![](https://img.shields.io/badge/Build-GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd)
@@ -62,15 +59,12 @@
 ![](https://img.shields.io/badge/Build-Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd)
 ![](https://img.shields.io/badge/Build-AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd)
 
----
-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882)
 ![](https://img.shields.io/badge/Shell-WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882)
-
----
 
 ![](https://img.shields.io/badge/Data-XML-informational?style=flat&logo=xaml&color=eb525f)
 ![](https://img.shields.io/badge/Data-JSON-informational?style=flat&logo=json&color=eb525f)
 ![](https://img.shields.io/badge/Data-YAML-informational?style=flat&logo=json&color=eb525f)
 ![](https://img.shields.io/badge/Data-SVG-informational?style=flat&logo=svg&color=eb525f)
+
