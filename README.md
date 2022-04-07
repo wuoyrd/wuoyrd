@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="100px" src="https://i.imgur.com/Ax6izaP.png" align="center" alt="The Moon"/>
 	<h2 align="center">📌 Hello! Welcome to my GitHub profile ✨</h2>
 </p>
 <p align="center">
