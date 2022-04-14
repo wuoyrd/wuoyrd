@@ -1,5 +1,5 @@
 <p align="center">
-	<h2 align="center">📌 Hello! Welcome to my GitHub profile ✨</h2>
+	<h2 align="center">Hello! Welcome to my GitHub profile ✨</h2>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
