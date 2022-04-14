@@ -30,7 +30,6 @@
 	<summary>🔥 <b>Coding</b></summary>
 	<p align="left">
     <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
     <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
     <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
     <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6"/>
