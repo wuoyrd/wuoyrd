@@ -95,3 +95,5 @@ foo
 <kbd>ctrl</kbd>
 
 ==foo==
+
+<span class="highlight"><pre>foo</pre></span>
