@@ -75,3 +75,7 @@
     <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
 	</p>
 </details>
+
+---
+
+<img src="https://raw.githubusercontent.com/github/explore/9bf85060bb8157ddd747caf2ecc398c3bdc1debc/topics/javascript/javascript.png" style="height:4rem;"/>
