@@ -97,3 +97,6 @@ foo
 ==foo==
 
 <span class="highlight"><pre>foo</pre></span>
+
+-[ ] foo
+-[ ] foo
