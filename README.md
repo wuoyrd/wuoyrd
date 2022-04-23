@@ -94,7 +94,7 @@ foo
 
 <kbd>ctrl</kbd>
 
-==foo==
+<mark>foo</mark>
 
 <span class="highlight"><pre>foo</pre></span>
 
