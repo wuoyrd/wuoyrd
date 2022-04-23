@@ -78,4 +78,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/github/explore/9bf85060bb8157ddd747caf2ecc398c3bdc1debc/topics/javascript/javascript.png" style="height:4rem;"/>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/9bf85060bb8157ddd747caf2ecc398c3bdc1debc/topics/javascript/javascript.png" />
