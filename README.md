@@ -78,4 +78,10 @@
 
 ---
 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/9bf85060bb8157ddd747caf2ecc398c3bdc1debc/topics/javascript/javascript.png" />
+<p align="left">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/csharp/csharp.png"/></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/javascript/javascript.png"/></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/dotnet/dotnet.png"/></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/aspnet/aspnet.png"/></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/auth0/auth0.png"/></code>
+</p>
