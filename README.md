@@ -83,3 +83,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/dotnet/dotnet.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/aspnet/aspnet.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9bf8506/topics/auth0/auth0.png"/></code>
+
+---
+
+```
+foo
+```
+
+`foo`
+
+<kbd>ctrl</kbd>
