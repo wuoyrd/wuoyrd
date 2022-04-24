@@ -90,9 +90,19 @@
 foo
 ```
 
+### ```
+
 `foo`
 
+### `<kbd>`
+
 <kbd>ctrl</kbd>
+
+### `<tt>`
+
+<tt>wuoyrd.github.io</tt>
+
+### `<mark>`
 
 <mark>foo</mark>
 
