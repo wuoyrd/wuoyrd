@@ -86,8 +86,15 @@
 
 ---
 
-```
-foo
+```csharp
+using Sytst
+public static class Program
+{
+  	public static void Main(string[] args)
+    {
+      Console.WriteLine("Hello, World!");
+    }
+}
 ```
 
 ### ```
