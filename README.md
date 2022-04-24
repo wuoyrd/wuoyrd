@@ -118,3 +118,10 @@ public static class Program
 
 - [ ] foo
 - [ ] bar
+
+```csharp
+[HttpGet]
+public class Foo {
+  
+}
+```
