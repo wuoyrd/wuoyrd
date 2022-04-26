@@ -74,8 +74,26 @@
 	</p>
 </details>
 
-> foo
-> foo
->
-> foo
+# Foo
 
+bar
+
+## Foo
+
+bar
+
+### Foo
+
+bar
+
+#### Foo
+
+bar
+
+##### Foo
+
+bar
+
+###### Foo
+
+bar
