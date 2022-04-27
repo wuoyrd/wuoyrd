@@ -87,11 +87,7 @@
 
 <img src="https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png" align="center"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
-<a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=ef5350"/></a>
-<a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=42a5f5"/></a>
-
-<a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=e53935"/></a>
-<a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=1e88e5"/></a>
+---
 
 <a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=f44336"/></a>
 <a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=2196f3"/></a>
