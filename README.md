@@ -7,20 +7,9 @@
 </p>
 
 
-## <img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/>Open Source Projects
-
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" width="28" height="28"/> Open Source Projects
 
-## <img src="https://user-images.githubusercontent.com/24259194/165516544-2cbb1486-d88c-4c29-a3a6-9a25accd7519.png" height="28"> GitHub Statistics
-
-## <img src="https://user-images.githubusercontent.com/24259194/165516544-2cbb1486-d88c-4c29-a3a6-9a25accd7519.png" width="28"> GitHub Statistics
-
-
-## <img src="https://user-images.githubusercontent.com/24259194/165516758-7b5c6740-61e7-4829-89a0-c380bd1ab758.png" width="30" height="30"> GitHub Statistics
-
-## <img src="https://user-images.githubusercontent.com/24259194/165516758-7b5c6740-61e7-4829-89a0-c380bd1ab758.png" height="30"> GitHub Statistics
-
-## <img src="https://user-images.githubusercontent.com/24259194/165516758-7b5c6740-61e7-4829-89a0-c380bd1ab758.png" width="30"> GitHub Statistics
+## <img align="center" src="https://user-images.githubusercontent.com/24259194/165516758-7b5c6740-61e7-4829-89a0-c380bd1ab758.png"  width="28" height="28"/> GitHub Statistics
 
 <p align="center">
   	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&count_private=true"/>
