@@ -118,5 +118,6 @@
 <a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=ef5350"/></a>
 <a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=42a5f5"/></a>
 
-
+<a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=ef5350&style=flat"/></a>
+<a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=42a5f5&style=flat"/></a>
 
