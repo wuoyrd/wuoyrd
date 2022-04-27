@@ -92,3 +92,7 @@
 ---
 
 [![img](https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg) PugachA／**WebScraper**](https://github.com/PugachA/WebScraper) ⭐
+
+---
+
+<img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg" style="vertical-align:text-bottom;"/>PugachA／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a>
