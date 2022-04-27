@@ -87,26 +87,6 @@
 
 <img src="https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png" align="center"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
-## <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165503353-d5dcb02a-927f-4fdd-a632-925957459caa.svg" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165505588-8d0b551c-f0e8-49a5-8d56-8a96b77c8742.svg" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165506657-10e2ec54-f251-4437-bfe3-f893ccfa8558.svg" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165507519-2e7f529e-f1c9-4f1e-b6e9-afa8148f8d62.png" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165507710-e8db2d0f-a806-41f0-ac52-d19a6a06fa7a.png" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165515505-7fb25d4c-7c44-41e0-9307-a16b69292364.png" width="24" height="24"> Open Source Projects
-
-## <img src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/> Open Source Projects
-
-## <img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/> Open Source Projects
-
-## <a href="#"><img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/></a> Open Source Projects
-
 <a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=ef5350"/></a>
 <a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=42a5f5"/></a>
 
@@ -115,11 +95,6 @@
 
 <a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=f44336"/></a>
 <a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=2196f3"/></a>
-
-## <img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/> Open Source Projects
-
-
-
 
 ---
 
