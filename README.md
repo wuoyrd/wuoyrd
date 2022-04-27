@@ -115,7 +115,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/24259194/165507710-e8db2d0f-a806-41f0-ac52-d19a6a06fa7a.png" width="24" height="24"> Open Source Projects
 
-<a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=ef5350"/></a><a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=42a5f5"/></a>
+<a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=ef5350"/></a>
+<a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=42a5f5"/></a>
 
 
 
