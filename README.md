@@ -107,8 +107,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/24259194/165503353-d5dcb02a-927f-4fdd-a632-925957459caa.svg" width="24" height="24"> Open Source Projects
 
-## <img src="https://user-images.githubusercontent.com/24259194/165504036-fa6ad879-7f0c-4818-81cf-cd880e6292c5.svg" width="24" height="24"> Open Source Projects
-
+## <img src="https://user-images.githubusercontent.com/24259194/165505588-8d0b551c-f0e8-49a5-8d56-8a96b77c8742.svg" width="24" height="24"> Open Source Projects
 
 
 
