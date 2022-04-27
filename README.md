@@ -81,17 +81,7 @@
 <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
 
 ---
-
-<img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg"/>
-
-
---
-
-![img](https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg) PugachA／**WebScraper**／…／[HttpLoader.cs](https://github.com/PugachA/WebScraper/blob/5a64a95109b8290154daeae62f9f58749af5c640/WebScraper.Core/Loaders/HttpLoader.cs) ⭐
-
----
-
-[![img](https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg) PugachA／**WebScraper**](https://github.com/PugachA/WebScraper) ⭐
-
----
-<p style="color:#768390;"><img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg" style="vertical-align:text-bottom;margin-right:4px;"/> PugachA／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a></p>
+<p style="color:#768390;">
+  <img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg" style="vertical-align:text-bottom;margin-right:4px;"/>
+  <a href="https://github.com/PugachA" target="_blank">PugachA</a>／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a>
+</p>
