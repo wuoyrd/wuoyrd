@@ -23,7 +23,7 @@
 
 ## 🛠️ Knowledge & Proficiencies
 
-<details><summary><h3>🔥 Coding</h3></summary><p align="left">
+<details><summary><h4>🔥 Coding</h4></summary><p align="left">
   <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
   <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
   <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
 </p></details>
-<details><summary><h5>📦 Building</h5></summary><p align="left">
+<details><summary><h4>📦 Building</h4></summary><p align="left">
   <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
   <img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
