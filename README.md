@@ -82,14 +82,5 @@
 
 ---
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=wuoyrd.wuoyrd"/>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=wuoyrd.visitor-badge.issue.1"/>
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wuoyrd.wuoyrd)
-![visitors](https://page-views.glitch.me/badge?page_id=wuoyrd.wuoyrd)
+<img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg"/>
 
