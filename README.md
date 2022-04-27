@@ -23,53 +23,46 @@
 
 ## 🛠️ Knowledge & Proficiencies
 
-<details open>
-	<summary>🔥 <b>Coding</b></summary>
-	<p align="left">
-    <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6"/>
-    <img src="https://img.shields.io/badge/XML-informational?style=flat&logo=xaml&color=eb525f"/>
-    <img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&color=eb525f"/>
-    <img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
-	</p>
-</details>
-<details open><summary>👨‍💻 <b>Tooling</b></summary><p align="left">
-<img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/RavenDB-informational?style=flat&logo=json&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
+<details><summary><h3>🔥 Coding</h3></summary><p align="left">
+  <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6"/>
+  <img src="https://img.shields.io/badge/XML-informational?style=flat&logo=xaml&color=eb525f"/>
+  <img src="https://img.shields.io/badge/JSON-informational?style=flat&logo=json&color=eb525f"/>
+  <img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
 </p></details>
-<details open>
-	<summary>📦 <b>Building</b></summary>
-	<p align="left">
-    <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
-    <img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
-    <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd"/>
-    <img src="https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd"/>
-    <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd"/>
-    <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882"/>
-    <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
-    <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
-	</p>
-</details>
-
+<details><summary><h4>👨‍💻 Tooling</h4></summary><p align="left">
+  <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/RavenDB-informational?style=flat&logo=json&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
+</p></details>
+<details><summary><h5>📦 Building</h5></summary><p align="left">
+  <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
+  <img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
+  <img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd"/>
+  <img src="https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd"/>
+  <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd"/>
+  <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882"/>
+  <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
+  <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
+</p></details>
