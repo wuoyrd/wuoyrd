@@ -11,7 +11,7 @@
 <p align="center">
   	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&count_private=true"/>
   	&ensp;
-  	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&currStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
+  	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&cur rStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
   </p>
 
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" width="28" height="28"/> Open Source Projects
@@ -67,43 +67,3 @@
   <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
   <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
 </p></details>
-
-
----
-
-<img src="https://img.shields.io/badge/-wuoyrd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuoyrd/" alt="Linkedin Badge"/><img src="https://img.shields.io/badge/-@wuoyrd-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@wuoyrd/" alt="Medium Badge"/><img src="https://img.shields.io/badge/-wuoyrd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wuoyrd@gmail.com" alt="Gmail Badge"/>
-
----
-
-<img src="https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png" align="center"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-<img src="https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png" align="center"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-<img src="https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png" align="center"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-<a href="https://youtube.com/wuoyrd"><img alt="subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=subscribers&color=f44336"/></a>
-<a href="https://youtube.com/wuoyrd"><img alt="views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC8MJqb5Azmz0R0aT__xokzQ&key=AIzaSyAhpoI0XkTw_b6Ljk7oxRCtskva3Gj9BaY&label=total+views&color=2196f3"/></a>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
