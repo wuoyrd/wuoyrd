@@ -87,10 +87,7 @@
 
 ![repo](https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
-
-
-
-
+![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
 
 
