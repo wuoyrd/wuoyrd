@@ -7,9 +7,9 @@
 </p>
 
 
-## <img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/><br clear="right"/>Open Source Projects
+## <img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" height="30" width="30"/>Open Source Projects
 
-## <img src="https://user-images.githubusercontent.com/24259194/165516544-2cbb1486-d88c-4c29-a3a6-9a25accd7519.png" width="28" height="28"> GitHub Statistics
+## <img align="left" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" width="30"/>Open Source Projects
 
 ## <img src="https://user-images.githubusercontent.com/24259194/165516544-2cbb1486-d88c-4c29-a3a6-9a25accd7519.png" height="28"> GitHub Statistics
 
