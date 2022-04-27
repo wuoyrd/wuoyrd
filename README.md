@@ -23,7 +23,7 @@
 
 ## 🛠️ Knowledge & Proficiencies
 
-<details><summary><h3 style="margin:0;">🔥 Coding</h3></summary><p align="left">
+<details><summary><h3 style="margin:0!important;">🔥 Coding</h3></summary><p align="left">
   <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
   <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
   <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
   <img src="https://img.shields.io/badge/TOML-informational?style=flat&logo=toml&color=eb525f"/>
 </p></details>
-<details><summary><h3 style="margin:0;">👨‍💻 Tooling</h3></summary><p align="left">
+<details><summary><h3 style="margin:0!important;">👨‍💻 Tooling</h3></summary><p align="left">
   <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
 </p></details>
-<details><summary><h3 style="margin:0;">📦 Building</h3></summary><p align="left">
+<details><summary><h3 style="margin:0!important;">📦 Building</h3></summary><p align="left">
   <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
   <img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
