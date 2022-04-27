@@ -95,4 +95,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg" style="vertical-align:text-bottom;"/>PugachA／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a>
+<p style="color:#768390;"><img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg" style="vertical-align:text-bottom;margin-right:4px;"/>PugachA／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a></p>
