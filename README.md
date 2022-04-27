@@ -75,96 +75,20 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
-<img src="https://badges.pufler.dev/visits/wuoyrd/wuoyrd?color=fbe6a4&logo=github&style=flat"/>
-<img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=follow&color=52cca3&style=flat"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
+<img src="https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
----
+<img src="https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
-![repo](https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png)
-[PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-![repo](https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png)
-[PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png)
-[PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-- 🐼 PugachA／**WebScraper**／…／[HttpLoader.cs](https://github.com/PugachA/WebScraper/blob/5a64a95109b8290154daeae62f9f58749af5c640/WebScraper.Core/Loaders/HttpLoader.cs) ⭐
-- 🐼 sanketpandia／**http3-demo**／…／[Program.cs](https://github.com/sanketpandia/http3-demo/blob/main/dotnet-http3-client/Program.cs)
-
----
-
-<img src="https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png">
-[PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-<img src="https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png">
-[PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-<img src="https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png">
-[PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-- ![repo](https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-- ![repo](https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-- ![repo](https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-- ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-- ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-- ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
-![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-###### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-###### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-###### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-##### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-##### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-##### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-#### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-#### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-#### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-## ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-## ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-## ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-
----
-
-# ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-# ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
-# ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
+<img src="https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png"> [PugachA](https://github.com/PugachA)／[**WebScraper**](https://github.com/PugachA/WebScraper)
 
 ---
 
 ### ![repo](https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
 ### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
 ### ![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
+
+---
+
+![repo](https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
+![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
+![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) [PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
