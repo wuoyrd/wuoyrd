@@ -13,6 +13,12 @@
   	&ensp;
   	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&currStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
   </p>
+  
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&show_icons=true&count_private=true"/>
+  	&ensp;
+  	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd"/>
+  </p>
 
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" width="28" height="28"/> Open Source Projects
 
