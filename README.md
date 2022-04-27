@@ -82,10 +82,9 @@
 
 ---
 <p style="color:#768390;">
-  <img src="https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png" style="vertical-align:text-bottom;margin-right:4px;"/>
+  <img src="https://user-images.githubusercontent.com/24259194/165480919-0a15890e-b21a-4709-b6bb-be2dace651fa.png" style="vertical-align:text-bottom;margin-right:4px;"/>
   <a href="https://github.com/PugachA" target="_blank">PugachA</a>／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a>
 </p>
-
 
 
 
