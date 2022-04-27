@@ -102,3 +102,13 @@
 [![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
 
 [![repo](https://user-images.githubusercontent.com/24259194/165481839-11025aab-7158-48d0-9cfb-c90408f0fe10.png) PugachA／**WebScraper**](https://github.com/PugachA/WebScraper)
+
+## <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"  width="20" height="20"/> Open Source Projects
+
+## <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"  width="25" height="25"/> Open Source Projects
+
+## <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg"  width="30" height="30"/> Open Source Projects
+
+## <img width="30" src=".images/README/icons8-bookmark-corner (1).svg"/> Open Source Projects
+
+## <img height="30" src=".images/README/icons8-bookmark-corner (1).svg"/> Open Source Projects
