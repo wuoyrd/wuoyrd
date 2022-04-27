@@ -82,6 +82,25 @@
 
 ---
 <p style="color:#768390;">
-  <img src="https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg" style="vertical-align:text-bottom;margin-right:4px;"/>
+  <img src="https://user-images.githubusercontent.com/24259194/165480237-01f645e3-dc5b-4d37-8618-86e321c2a5ec.png" style="vertical-align:text-bottom;margin-right:4px;"/>
   <a href="https://github.com/PugachA" target="_blank">PugachA</a>／<a href="https://github.com/PugachA/WebScraper" target="_blank"><b>WebScraper</b></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
