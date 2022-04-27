@@ -88,3 +88,7 @@
 --
 
 ![img](https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg) PugachA／**WebScraper**／…／[HttpLoader.cs](https://github.com/PugachA/WebScraper/blob/5a64a95109b8290154daeae62f9f58749af5c640/WebScraper.Core/Loaders/HttpLoader.cs) ⭐
+
+---
+
+[![img](https://raw.githubusercontent.com/wuoyrd/wuoyrd/main/assets/Repository.svg) PugachA／**WebScraper**](https://github.com/PugachA/WebScraper) ⭐
