@@ -6,8 +6,6 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
 </p>
 
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -24,7 +22,7 @@
 
 ## 🛠️ Knowledge & Proficiencies
 
-<details open><summary>🔥 <b>Coding</b></summary><p align="left">
+<details><summary>🔥 <b>Coding</b></summary><p align="left">
   <img src="https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6"/>
   <img src="https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6"/>
   <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6"/>
@@ -40,7 +38,7 @@
   <img src="https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f"/>
   <img src="https://img.shields.io/badge/TOML-informational?style=flat&logo=toml&color=eb525f"/>
 </p></details>
-<details open><summary>👨‍💻 <b>Tooling</b></b></summary><p align="left">
+<details><summary>👨‍💻 <b>Tooling</b></b></summary><p align="left">
   <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
@@ -56,8 +54,9 @@
   <img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=fla"/>
 </p></details>
-<details open><summary>📦 <b>Building</b></summary><p align="left">
+<details><summary>📦 <b>Building</b></summary><p align="left">
   <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
   <img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
@@ -68,3 +67,29 @@
   <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
   <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
 </p></details>
+
+
+---
+
+<img src="https://img.shields.io/badge/-wuoyrd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wuoyrd/" alt="Linkedin Badge"/><img src="https://img.shields.io/badge/-@wuoyrd-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@wuoyrd/" alt="Medium Badge"/><img src="https://img.shields.io/badge/-wuoyrd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wuoyrd@gmail.com" alt="Gmail Badge"/>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
+<img src="https://badges.pufler.dev/visits/wuoyrd/wuoyrd?color=fbe6a4&logo=github&style=flat"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=follow&color=52cca3&style=flat"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
+
+---
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=wuoyrd.wuoyrd"/>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=wuoyrd.visitor-badge.issue.1"/>
+
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wuoyrd.wuoyrd)
+![visitors](https://page-views.glitch.me/badge?page_id=wuoyrd.wuoyrd)
+
