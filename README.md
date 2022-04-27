@@ -110,5 +110,5 @@
 ---
 
 
-<a href="https://github.com/PugachA/WebScraper" target="_blank" style="font-size:20px;">PugachA<span class="color-fg-muted" style="margin:0 4px;font-size:20px;">/</span><b>WebScraper</b></a>
+<li style="font-size:20px!important;">PugachA／<b>WebScraper</b></li>
 
