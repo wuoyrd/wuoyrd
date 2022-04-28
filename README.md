@@ -70,22 +70,8 @@
 
 ---
 
-# `Windows 10 » Programming » Git` (PNGs)
-
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165720370-eb6b8e62-b234-49da-965d-bb309bc7eb17.png" width="28" height="28"/> AAAAAA
-
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165720339-7ffd6e5a-d5e0-4aac-aae0-de062ee2adf4.png" width="28" height="28"/> BBBBBB
-
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165719990-bb17e914-2ef9-4bb5-bc02-212348f45a64.png" width="28" height="28"/> CCCCCC
-
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165719293-98c3e18c-de71-4884-8a99-5b3204121ef7.png"  width="28" height="28"/> DDDDDD
-
-# `Windows 10 » Programming » Git` (SVGs)
-
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> AAAAA
 
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718667-f38b5c5b-9c24-4a9c-8f52-6830ba6414e3.svg" width="32" height="28"/> BBBBBB
 
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718753-8376f704-26e9-4642-9ac2-bc89835612e9.svg" width="28" height="28"/> CCCCCC
-
-## <img  align="center" src="https://user-images.githubusercontent.com/24259194/165718925-8cb26fc4-1b75-45db-a4a5-4d98b300e12b.svg" width="28" height="28"/> DDDDDD
