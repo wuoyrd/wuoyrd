@@ -6,7 +6,7 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
 </p>
 
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165516758-7b5c6740-61e7-4829-89a0-c380bd1ab758.png"  width="28" height="28"/> GitHub Statistics
+## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> GitHub Statistics
 
 <p align="center">
   	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&count_private=true"/>
@@ -14,7 +14,7 @@
   	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&currStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
 </p>
 
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165519107-858d0284-3a4e-415e-8a44-187f8bd7ac40.svg" width="28" height="28"/> Open Source Projects
+## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718753-8376f704-26e9-4642-9ac2-bc89835612e9.svg" width="28" height="28"/> Open Source Projects
 
 <p align="center">
 	<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>
@@ -70,8 +70,8 @@
 
 ---
 
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> AAAAA
+
 
 ## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718667-f38b5c5b-9c24-4a9c-8f52-6830ba6414e3.svg" width="32" height="28"/> BBBBBB
 
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718753-8376f704-26e9-4642-9ac2-bc89835612e9.svg" width="28" height="28"/> CCCCCC
+
