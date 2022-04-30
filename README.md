@@ -76,10 +76,9 @@
 ---
 
 
-![icons8_ghost_9]()
 
 
-![icons8_axolotl_5]()
+<img width="120" height="120" align="right" src="https://user-images.githubusercontent.com/24259194/166117513-cebb0d86-9aa7-4715-ae8f-5c545317fd53.svg"/>
 
 
 
