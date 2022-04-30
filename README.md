@@ -3,7 +3,7 @@
 <h1 align="center">
 	<img align="left" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166114828-384d6fe8-5c9c-4728-8589-6076710beb79.svg"/>
 	<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166116053-a9386d67-cb70-4dc7-8971-e7520db49704.svg"/>
-	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile ✨
+	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
