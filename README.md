@@ -1,8 +1,8 @@
 
 
 <h1 align="center">
-	<img align="left" src="https://user-images.githubusercontent.com/24259194/166114828-384d6fe8-5c9c-4728-8589-6076710beb79.svg"/>
-	<img align="right" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
+	<img align="left" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166114828-384d6fe8-5c9c-4728-8589-6076710beb79.svg"/>
+	<img align="right" src="https://user-images.githubusercontent.com/24259194/166115948-533f6d00-020b-4801-9161-8773234c3a40.png"/>
 	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile ✨
 </h1>
 <p align="center">
@@ -91,5 +91,6 @@
 ![icons8_ghost_9]()
 
 
+![895526705177968641]()
 
 
