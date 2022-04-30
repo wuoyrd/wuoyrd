@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-	<img align="left"width="130" height="130" src="https://user-images.githubusercontent.com/24259194/166114588-80d6d5b5-bc58-43ea-9ead-06a2738ac7fe.svg"/>
+	<img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/24259194/166114588-80d6d5b5-bc58-43ea-9ead-06a2738ac7fe.svg"/>
 	<img align="right" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
 	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile ✨
 </h1>
