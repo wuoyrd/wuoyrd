@@ -96,3 +96,12 @@
 
 ![icons8_lullaby_9](https://user-images.githubusercontent.com/24259194/166116061-910e1eca-5a16-44eb-8a76-4c86c6841ac2.svg)
 
+
+
+---
+
+<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166116053-a9386d67-cb70-4dc7-8971-e7520db49704.svg"/>
+
+<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166116077-fa92fbe3-b742-4c1e-b987-6153184e6412.svg"/>
+
+<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
