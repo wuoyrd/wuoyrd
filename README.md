@@ -1,5 +1,5 @@
-<img align="left" width="120" height="120" src="https://user-images.githubusercontent.com/24259194/166117450-542a2fca-6a5f-434c-a4be-6aa06697a435.svg"/>
-<img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166117450-542a2fca-6a5f-434c-a4be-6aa06697a435.svg"/>
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
 
 <h1 align="center">
 	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile
@@ -73,12 +73,7 @@
   <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
 </p></details>
 
----
 
-
-
-
-<img width="120" height="120" align="right" src="https://user-images.githubusercontent.com/24259194/166117513-cebb0d86-9aa7-4715-ae8f-5c545317fd53.svg"/>
 
 
 
