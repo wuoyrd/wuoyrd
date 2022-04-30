@@ -76,30 +76,6 @@
 
 ---
 
-
-![icons8_lullaby_3](https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg)
-
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718667-f38b5c5b-9c24-4a9c-8f52-6830ba6414e3.svg" width="32" height="28"/> BBBBBB
-
-![icons8_rocket_9](https://user-images.githubusercontent.com/24259194/166113793-a0174608-51a7-4a3a-8b0d-29458dcb3412.svg)
-
-![icons8_lullaby_4](https://user-images.githubusercontent.com/24259194/166114235-a4fd83de-59ef-424f-badf-144909cecc39.svg)
-
-![icons8_ghost_9](https://user-images.githubusercontent.com/24259194/166114372-1637425f-e098-4558-9159-f136267d1233.svg)
-
-![icons8_lullaby_9](https://user-images.githubusercontent.com/24259194/166116039-41641e58-81c6-4784-a8b0-eea4966a9d20.svg)
-
-
-![icon8_lullaby_9](https://user-images.githubusercontent.com/24259194/166116053-a9386d67-cb70-4dc7-8971-e7520db49704.svg)
-
-![icons8_lullaby_9](https://user-images.githubusercontent.com/24259194/166116077-fa92fbe3-b742-4c1e-b987-6153184e6412.svg)
-
-![icons8_lullaby_9](https://user-images.githubusercontent.com/24259194/166116061-910e1eca-5a16-44eb-8a76-4c86c6841ac2.svg)
-
-
-
----
-
 <img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166116053-a9386d67-cb70-4dc7-8971-e7520db49704.svg"/>
 
 <img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/24259194/166116077-fa92fbe3-b742-4c1e-b987-6153184e6412.svg"/>
