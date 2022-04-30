@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-	<img align="left" src="https://user-images.githubusercontent.com/24259194/166114535-8092160a-10f1-4f42-91b7-15755f349b67.svg"/>
+	<img align="left" src="https://user-images.githubusercontent.com/24259194/166114603-a079c22b-fa67-4021-98e8-d86511adf63a.svg"/>
 	<img align="right" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
 	<img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile ✨
 </h1>
@@ -87,7 +87,7 @@
 
 ![icons8_ghost_9](https://user-images.githubusercontent.com/24259194/166114372-1637425f-e098-4558-9159-f136267d1233.svg)
 
-![icons8_ghost_9]()
+
 
 
 
