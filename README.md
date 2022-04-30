@@ -1,5 +1,6 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile ✨</h1>
 <img align="left" src="https://user-images.githubusercontent.com/24259194/166113793-a0174608-51a7-4a3a-8b0d-29458dcb3412.svg"/>
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile ✨</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
   <img src="https://badges.pufler.dev/visits/wuoyrd/wuoyrd?color=fbe6a4&logo=github&style=flat"/>
