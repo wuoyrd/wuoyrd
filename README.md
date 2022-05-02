@@ -73,22 +73,3 @@
   <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
 </p></details>
 
-
-
-
-
-
-![icons8_ghost_9]()
-
-
-
-
-
-
-
-
-
-
-
-
-
