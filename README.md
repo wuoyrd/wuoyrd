@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166117450-542a2fca-6a5f-434c-a4be-6aa06697a435.svg"/>
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166210910-c69d8d98-4c38-4353-aa8c-b36fcd1175d4.svg"/>
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
 
 <h1 align="center">
@@ -78,7 +78,7 @@
 
 
 
-![icons8_ghost_9](https://user-images.githubusercontent.com/24259194/166210910-c69d8d98-4c38-4353-aa8c-b36fcd1175d4.svg)
+![icons8_ghost_9]()
 
 
 
