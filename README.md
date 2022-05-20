@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat&logo=prettier&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/prettier-ff69b4.svg?style=flat&logo=prettier&logoColor=white&color=2bbc8a"/>
 </p></details>
 <details><summary>📦 <b>Building</b></summary><p align="left">
   <img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
