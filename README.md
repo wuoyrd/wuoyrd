@@ -1,1 +1,3 @@
-<img src="/github-metrics.svg" alt="Metrics">
+![Metrics](/metrics.plugin.anilist.manga.svg)
+
+![Anilist Metrics](/metrics.plugin.anilist.manga.svg)
