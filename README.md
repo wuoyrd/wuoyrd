@@ -72,10 +72,3 @@
   <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
   <img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
 </p></details>
-
-<b style="color:#e5534b">Hard</b>
-
-<b style="color:#c69026">Medium</b>
-
-<b style="color:#46954a">Easy</b>
-
