@@ -1,5 +1,10 @@
+# 📊 Metrics
+
 ![Metrics](/github-metrics.svg)
+
+## 🈷️ Most used languages
 
 ![languages](/metrics.plugin.languages.indepth.svg)
 
-![Anilist Metrics](/metrics.plugin.anilist.manga.svg)
+## 📰 Recent activity
+
