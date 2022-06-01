@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: wuoyrd/metrics@latest
+      - uses: wuoyrd/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
