@@ -1,10 +1,26 @@
 # 📊 Metrics
 
-![Metrics](/github-metrics.svg)
+![](/github-metrics.svg)
 
 ## 🈷️ Most used languages
 
-![languages](/metrics.plugin.languages.indepth.svg)
+![](/metrics.plugin.languages.indepth.svg)
+
+## 📓 Featured repositories
+
+![](/metrics.plugin.repositories.svg)
 
 ## 📰 Recent activity
+
+![](/metrics.plugin.activity.svg)
+
+## 🎼 Recently listened to
+
+![](/metrics.plugin.music.recent.svg)
+
+
+
+
+
+
 
