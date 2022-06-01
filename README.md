@@ -16,7 +16,6 @@
 
 ## 🎼 Music
 
-![](/metrics.plugin.music.recent.svg)
 
 ## ⏰ WakaTime
 
