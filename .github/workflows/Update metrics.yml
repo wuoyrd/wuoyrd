@@ -31,14 +31,29 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_analysis_timeout: 15
           
-      - name: Favorites manga and currently reading
+      - name: Recent activity
         uses: wuoyrd/metrics@main
         with:
-          filename: metrics.plugin.anilist.manga.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_anilist: yes
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites, reading
-          plugin_anilist_limit: 1
-          plugin_anilist_user: wuoyrd
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          
+      - name: Featured repositories
+        uses: wuoyrd/metrics@main
+        with:
+          filename: metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: wuoyrd/vs-theme-goodnight, wuoyrd/leetcode
+          
+      - name: Gists
+        uses: wuoyrd/metrics@main
+        with:
+          filename: metrics.plugin.gists.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_gists: yes
