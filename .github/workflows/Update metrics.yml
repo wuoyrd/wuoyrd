@@ -15,3 +15,15 @@ jobs:
       - uses: wuoyrd/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+      - name: Favorites manga and currently reading
+        uses: wuoyrd/metrics@main
+        with:
+          filename: metrics.plugin.anilist.manga.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1
+          plugin_anilist_user: wuoyrd
