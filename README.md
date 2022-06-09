@@ -14,10 +14,6 @@
 
 ![](/metrics.plugin.activity.svg)
 
-## 🎼 Music
-
-![](/metrics.plugin.music.recent.svg)
-
 ## ⏰ WakaTime
 
 ![](/metrics.plugin.wakatime.svg)
