@@ -25,6 +25,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">1961 Mont Blanc Disaster</div>
+                                    <div class="artist">Mountain Climbing Disasters</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">The Unexplainable Disappearances of Missing 411</div>
                                     <div class="artist">Wendigoon</div>
                                 </div>
@@ -48,13 +55,6 @@
                                 <div class="infos">
                                     <div class="name">minimme</div>
                                     <div class="artist">Alone in the Dark's weird 2008 reboot</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">DESTROYING 10 BANKING SCAMMERS WITH VeryFun.EXE MALWARE!</div>
-                                    <div class="artist">Scambaiter</div>
                                 </div>
                             </div>
                         </div>
