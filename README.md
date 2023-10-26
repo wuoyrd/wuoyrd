@@ -20,40 +20,17 @@
 
 ## Knowledge & Proficiencies
 
-#### Coding
+### Coding
 
 ![.NET](https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6) ![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6) ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6) ![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6) ![SASS](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6) ![Node](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6) ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6) ![Markdown](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6) ![LaTeX](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6) ![XML](https://img.shields.io/badge/XML-informational?style=flat&logo=xaml&color=eb525f) ![JSON](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&color=eb525f) ![YAML](https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f) ![TOML](https://img.shields.io/badge/TOML-informational?style=flat&logo=toml&color=eb525f)
 
 ### Tooling
 
-<img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/RavenDB-informational?style=flat&logo=json&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a"/>
-<img src="https://img.shields.io/badge/Prettier-ff69b4.svg?style=flat&logo=prettier&logoColor=white&color=2bbc8a"/>
+![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![VSCode](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a) ![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) ![MSSQL](https://img.shields.io/badge/MS_SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) ![SQLite](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a) ![RavenDB](https://img.shields.io/badge/RavenDB-informational?style=flat&logo=json&logoColor=white&color=2bbc8a) ![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a) ![Kafka](https://img.shields.io/badge/Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a) ![EventStoreDB](https://img.shields.io/badge/EventStoreDB-informational?style=flat&logo=eventstore&logoColor=white&color=2bbc8a) ![Postman](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a) ![Insomnia](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a) ![Prettier](https://img.shields.io/badge/Prettier-ff69b4.svg?style=flat&logo=prettier&logoColor=white&color=2bbc8a)
 
 ### Operations
 
-<img src="https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd"/>
-<img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882"/>
-<img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882"/>
-<img src="https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882"/>
+![Azure DevOps](https://img.shields.io/badge/AzureDevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=ac8fbd) ![Octopus Deploy](https://img.shields.io/badge/Octopus_Deploy-informational?style=flat&logo=octopus-deploy&logoColor=white&color=ac8fbd) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github%20actions&logoColor=white&color=ac8fbd) ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=ac8fbd) ![Helm](https://img.shields.io/badge/Helm-informational?style=flat&logo=helm&logoColor=white&color=ac8fbd) ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon&logoColor=white&color=ac8fbd) ![Bash](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffe882) ![PowerShell](https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=ffe882) ![WSL2](https://img.shields.io/badge/WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=ffe882)
 
 ---
 
