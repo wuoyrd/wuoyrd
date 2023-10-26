@@ -20,7 +20,7 @@
 
 ## Knowledge & Proficiencies
 
-### Coding
+#### Coding
 
 ![.NET](https://img.shields.io/badge/dotnet-informational?style=flat&logo=dotnet&color=57a6e6) ![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=Csharp&color=57a6e6) ![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=57a6e6) ![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=57a6e6) ![SASS](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=57a6e6) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=57a6e6) ![Node](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=57a6e6) ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=57a6e6) ![Markdown](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=57a6e6) ![LaTeX](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=latex&logoColor=white&color=57a6e6) ![XML](https://img.shields.io/badge/XML-informational?style=flat&logo=xaml&color=eb525f) ![JSON](https://img.shields.io/badge/JSON-informational?style=flat&logo=json&color=eb525f) ![YAML](https://img.shields.io/badge/YAML-informational?style=flat&logo=json&color=eb525f) ![TOML](https://img.shields.io/badge/TOML-informational?style=flat&logo=toml&color=eb525f)
 
