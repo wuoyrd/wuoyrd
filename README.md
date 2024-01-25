@@ -17,12 +17,6 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wuoyrd&theme=github-dark-blue&hide_border=true&background=2d333b&title=57a6e6&ring=fbe6a4&fire=f57676&sideNums=67a6e6&dates=a6a6a6&currStreakLabel=e6e6e6&sideLabels=e6e6e6&stroke=797C82"/>
 </p>
 
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718753-8376f704-26e9-4642-9ac2-bc89835612e9.svg" width="28" height="28"/> Open Source Projects
-
-<p align="center">
-	<a href="https://github.com/wuoyrd/vs-theme-goodnight"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=vs-theme-goodnight&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>&ensp;<a href="https://github.com/wuoyrd/leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wuoyrd&repo=leetcode&show_owner=true&theme=github_dark&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&line_height=27"/></a>
-</p>
-
 ## Knowledge & Proficiencies
 
 <details><summary><b>Coding</b></summary><p align="left">
