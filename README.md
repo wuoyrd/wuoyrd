@@ -1,9 +1,9 @@
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166210910-c69d8d98-4c38-4353-aa8c-b36fcd1175d4.svg"/>
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/24259194/166114032-27861480-8366-43f5-8498-473f9690f72f.svg"/>
 
-<h1 align="center">
+<h3 align="center">
     <img src="https://user-images.githubusercontent.com/24259194/165423237-4c69cb8e-1ccb-4630-9f98-81291e10723b.gif" width="30px"> Hello! Welcome to my GitHub profile.
-</h1>
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wuoyrd&color=57a6e6&label=Views&logo=github&style=flat">
   <img alt="Followers" src="https://img.shields.io/github/followers/wuoyrd?label=follow&color=52cca3&style=flat"/>
