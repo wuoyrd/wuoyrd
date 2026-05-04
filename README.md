@@ -10,7 +10,7 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/wuoyrd?label=watch&color=f57676&style=flat"/>
 </p>
 
-## <img align="center" src="https://user-images.githubusercontent.com/24259194/165718575-df34c1f7-2651-414c-b98d-e5f9a72cd4e8.svg" width="32" height="28"/> GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wuoyrd&theme=github_dark&show_icons=true&hide_border=true&bg_color=2d333b&icon_color=fbe6a4&title_color=57a6e6&text_color=d6d6d6&count_private=true"/>
